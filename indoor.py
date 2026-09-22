@@ -1,7 +1,4 @@
-def main():
-    name = input("What is your name? ")
-    print(f"hello, {name}")
 
-
-if __name__ == "__main__":
-    main()
+print("HELLO,WORLD" .lower())
+print("THIS IS CS50" .lower())
+print("50" .lower())
